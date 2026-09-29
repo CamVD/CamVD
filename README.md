@@ -6,7 +6,6 @@ Scientist turned programmer working somewhere between **biology, code and data**
 
 I enjoy building tools that make scientific data easier to analyse, automate and understand. Especially when that means replacing repetitive manual work with something reproducible.
 
----
 
 ## 🧪 Things I like working with
 
@@ -16,7 +15,6 @@ I enjoy building tools that make scientific data easier to analyse, automate and
 - 📊 Data analysis & visualisation
 - 🧠 Turning messy real-world problems into structured systems
 
----
 
 ## 🧬 From bioinformatics to software development
 
@@ -41,7 +39,6 @@ So now I live somewhere around:
 
 **science → data → Python → APIs → React → CSS → "why did that move?"**
 
----
 
 ## 🌱 Currently
 
@@ -56,7 +53,6 @@ Currently exploring:
 - 🧬 Bioinformatics & scientific computing
 - ⚙️ Building maintainable software for complicated problems
 
----
 
 ## 🧬 My favourite kind of problem
 
@@ -64,7 +60,6 @@ Currently exploring:
 
 Interesting. 👀
 
----
 
 > Scientist by training. Programmer by evolution.
 
